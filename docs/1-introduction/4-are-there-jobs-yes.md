@@ -66,7 +66,7 @@ The jobs that exist today will change, and the tools we use will evolve, but the
 
 In a world full of high-level tools and services, it might be tempting to think you don’t need to understand how things work under the hood. But the most effective people in modern tech teams _do_ understand the fundamentals—even if they’re not writing low-level code every day.
 
-Based on how the industry is shifting right now, it's fairly easy to predict thats the jobs that exist in 20 years are going to be different from the jobs that exist today, and it's your understanding of the fundamentals that will allow you to adapt and thrive in that changing landscape.
+Based on how the industry is shifting right now, it's fairly easy to predict that the jobs that exist in 20 years are going to be different from the jobs that exist today, and it's your understanding of the fundamentals that will allow you to adapt and thrive in that changing landscape.
 
 It's also important to keep in mind that your degree is not just about pure knowledge. Going through university is about learning how to learn and how to think critically. It's about building a network of peers and mentors who can support you throughout your career.
 
