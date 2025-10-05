@@ -22,7 +22,7 @@ Enrollment in computer science programs has surged over the past two decades, le
 
 At the same time, recent waves of tech layoffs have displaced many experienced developers—who are now competing for roles that might have otherwise gone to entry-level candidates.
 
-Meaning all these new graduates have little a significantly more difficult time landing a job.
+Meaning all these new graduates have a significantly more difficult time landing a job.
 
 ## Developers Used To Be In Demand
 
