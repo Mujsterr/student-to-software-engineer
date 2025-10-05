@@ -18,7 +18,7 @@ However the real value is in being able to design your own algorithms. You will 
 
 ## Operating Systems Course
 
-This course usually focusses on the fundamentals of how operating systems work, including process management, memory management, file systems, and concurrency.
+This course usually focuses on the fundamentals of how operating systems work, including process management, memory management, file systems, and concurrency.
 
 Do you need to be a linux kernel developer to be a good software engineer? No.
 
